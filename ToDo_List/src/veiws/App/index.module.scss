@@ -2,7 +2,7 @@
     background: #F9F7F7;
     border-radius: 20px;
     min-width: 600px;
-    padding: 20px 55px;
+    padding: 20px 55px 30px;
 
     &Title{
         text-align: center;
@@ -10,6 +10,9 @@
     line-height: 46px;
     font-size: 40px;
     color: #112D4E;
+    }
+    &Text{
+        text-align: center;
     }
 
 }
